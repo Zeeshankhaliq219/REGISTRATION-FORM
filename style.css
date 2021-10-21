@@ -1,0 +1,41 @@
+body{
+   
+}
+
+div{
+
+    background-color: rgba(100, 103, 104, 0.186);
+    height: 600px;
+    width: 50%;
+    padding-top: 10px;
+   
+}
+
+input{
+    padding: 8px;
+    margin: 20px;
+}
+
+button{
+    padding: 15px;
+    width: 150px;
+    color: white;
+    background-color: green;
+
+    font-size: 14px;
+   
+}
+button:hover{
+    background-color: white;
+    color: green;
+}
+.input2{
+         width: 400px;
+}
+code{
+    color: green;
+    font-size: 15px;
+}
+
+
+  
